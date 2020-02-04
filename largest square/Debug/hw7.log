@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\marshall\desktop\fall 2019\cmspc 465\hw7\hw7\hw7\source.cpp(69): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\marshall\desktop\fall 2019\cmspc 465\hw7\hw7\hw7\source.cpp(73): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\marshall\desktop\fall 2019\cmspc 465\hw7\hw7\hw7\source.cpp(77): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  hw7.vcxproj -> C:\Users\marshall\Desktop\Fall 2019\cmspc 465\hw7\hw7\Debug\hw7.exe
